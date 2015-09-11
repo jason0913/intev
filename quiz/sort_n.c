@@ -1,9 +1,9 @@
 /* 
 * @Author: root
 * @Date:   2015-07-26 07:28:24
-* @Last Modified by:   root
-* @Last Modified time: 2015-07-26 07:33:01
-  sort in O(n)
+* @Last Modified by:   jql
+* @Last Modified time: 2015-08-02 22:48:30
+  sort in O(n) by hash
 */
 
 #include <stdio.h>

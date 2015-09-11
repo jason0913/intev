@@ -7,12 +7,12 @@
 int main(int argc, char const *argv[])
 {
 	char p[MAX+1];
-	char ch;
-	// unsigned char ch;
+	// char ch;
+	unsigned char ch;
 	int n=10;
 	char a[n];
 
-	for (ch = 0; ch < MAX; ++ch)
+	for (ch = 0; ch <= MAX; ++ch)
 	{
 		p[ch] = ch;
 		printf("%c ", ch);
